@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Content-Type: application/json, charset=utf-8
+Access-Control-Allow-Origin: *
+
+{
+  "id": "103",
+  "title": "Effective Java",
+  "authors": "Joshua Bloch",
+  "publisher": "Pearson Education",
+  "publishDate": "2001-08-15",
+  "description": "Are you looking for a deeper understanding of the Java™ programming language so that you can write code that is clearer, more correct, more robust, and more reusable.",
+  "averageRating": "4.5",
+  "totalPages": "416",
+  "price": "1050.00"
+}

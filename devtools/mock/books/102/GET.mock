@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Content-Type: application/json, charset=utf-8
+Access-Control-Allow-Origin: *
+
+{
+  "id": "102",
+  "title": "Start with Why",
+  "authors": "Simon Sinek",
+  "publisher": "Portfolio",
+  "publishDate": "2011-12-27",
+  "description": "Start with Why: How Great Leaders Inspire Everyone to Take Action is a book by Simon Sinek",
+  "averageRating": "4.1",
+  "totalPages": "260",
+  "price": "999.00"
+}
